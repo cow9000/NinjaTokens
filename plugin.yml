@@ -1,0 +1,8 @@
+name: ninjaCoin
+main: me.DerekV.ninjaCoin.ninjaCoin
+version: 0.1
+author: cow9000
+description: This description is a stub.
+commands:
+  nc:
+    description: Ninjacoins
